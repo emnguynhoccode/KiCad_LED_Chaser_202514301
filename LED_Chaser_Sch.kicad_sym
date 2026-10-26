@@ -1269,7 +1269,7 @@
 				)
 			)
 			(pin passive line
-				(at 0 10.16 270)
+				(at 10.16 -5.08 180)
 				(length 2.54)
 				(name "CONT"
 					(effects
