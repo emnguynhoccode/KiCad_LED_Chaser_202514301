@@ -1,0 +1,26 @@
+### Footprint positions - created on 2026-10-27T11:50:54 ###
+### Printed by KiCad version 10.0.7
+## Unit = mm, Angle = deg.
+## Side : All
+# Ref     Val       Package                                                 PosX       PosY       Rot  Side
+C1        10uF      CP_Radial_D5.0mm_P2.50mm                            107.9500  -102.8700   90.0000  top
+C2        0.01uF    C_Disc_D5.0mm_W2.5mm_P2.50mm                        115.5700  -105.4100    0.0000  top
+D1        LED_CLK   LED_D5.0mm                                          130.8100  -110.4900  180.0000  top
+D2        LED       LED_D5.0mm                                          105.4100   -85.0900  -90.0000  top
+D3        LED       LED_D5.0mm                                          113.0300   -85.0900  -90.0000  top
+D4        LED       LED_D5.0mm                                          120.6500   -85.0900  -90.0000  top
+D5        LED       LED_D5.0mm                                          128.2700   -85.0900  -90.0000  top
+D6        LED       LED_D5.0mm                                          135.8900   -85.0900  -90.0000  top
+D7        LED       LED_D5.0mm                                          143.5100   -85.0900  -90.0000  top
+D8        LED       LED_D5.0mm                                          151.1300   -85.0900  -90.0000  top
+D9        LED       LED_D5.0mm                                          158.7500   -85.0900  -90.0000  top
+D10       LED       LED_D5.0mm                                          166.3700   -85.0900  -90.0000  top
+D11       LED       LED_D5.0mm                                          173.9900   -85.0900  -90.0000  top
+J1        9V_IN     PinHeader_1x02_P2.54mm_Vertical                     107.9500   -93.9800  -90.0000  top
+R1        10k       R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal   114.3000  -118.1100  180.0000  top
+R2        680R      R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal   161.2900   -91.4400  180.0000  top
+R3        680R      R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal   134.6200  -106.6800  -90.0000  top
+RV1       10k       Potentiometer_Bourns_3386P_Vertical                 107.9500  -113.0300    0.0000  top
+U1        NE555P    DIP-8_W7.62mm                                       124.4600  -116.8400  180.0000  top
+U2        CD4017    DIP-16_W7.62mm                                      138.4300   -91.4400    0.0000  top
+## End
