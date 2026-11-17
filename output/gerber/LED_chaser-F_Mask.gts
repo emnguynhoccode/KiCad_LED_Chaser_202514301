@@ -1,12 +1,12 @@
 %TF.GenerationSoftware,KiCad,Pcbnew,10.0.7*%
-%TF.CreationDate,2026-10-27T11:50:53+07:00*%
+%TF.CreationDate,2026-11-16T22:52:30+07:00*%
 %TF.ProjectId,LED_chaser,4c45445f-6368-4617-9365-722e6b696361,rev?*%
 %TF.SameCoordinates,Original*%
-%TF.FileFunction,Soldermask,Bot*%
+%TF.FileFunction,Soldermask,Top*%
 %TF.FilePolarity,Negative*%
 %FSLAX46Y46*%
 G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
-G04 Created by KiCad (PCBNEW 10.0.7) date 2026-10-27 11:50:53*
+G04 Created by KiCad (PCBNEW 10.0.7) date 2026-11-16 22:52:30*
 %MOMM*%
 %LPD*%
 G01*

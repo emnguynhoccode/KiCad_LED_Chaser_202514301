@@ -544,14 +544,7 @@
       "version": 5
     },
     "net_colors": {},
-    "netclass_assignments": {
-      "+9V": [
-        "Power"
-      ],
-      "GND": [
-        "Power"
-      ]
-    },
+    "netclass_assignments": {},
     "netclass_patterns": [
       {
         "netclass": "Power",
