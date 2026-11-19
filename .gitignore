@@ -7,7 +7,7 @@
 *.bck
 *.kicad_pcb-bak
 *.kicad_sch-bak
-*-backups
+*-backups/
 *-cache*
 *-bak
 *-bak*
@@ -19,6 +19,7 @@ _autosave-*
 *-save.pro
 *-save.kicad_pcb
 fp-info-cache
+*.lck
 ~*.lck
 \#auto_saved_files#
 
@@ -37,7 +38,7 @@ fp-info-cache
 **/*-backups/*.zip
 
 # Local git-based history (KiCad 9.0+)
-.history
+.history/
 
 # Local project settings
 *.kicad_prl
